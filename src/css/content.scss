@@ -1,0 +1,22 @@
+$white:#323330;
+.header{
+    background:$white;
+    height:50px;
+    h3{
+        color:#fff;
+        text-align:center;
+        line-height:50px;
+        button{
+            width:120px;
+            line-height:30px;
+            height:30px;
+            border:0;
+            margin:10px 50px 0 0;
+            background:#66AFE9;
+            color:#fff;
+            font-size:14px;
+            font-weight:500;
+            border-radius:5px;
+        }
+    }
+}
